@@ -9,16 +9,23 @@ Hello my name is nicholas street and this is my profolio based on the course Ind
 
 
 Inspiration focus:
+Through this part of the documentation this would show what mechanic or sections of the story that I took an interest and why this would be in my game with diagrams to show how I would tackle this personally using a complely different engine that they orginally used.
+
+Assassins Creed origins: 
 
 
-Assassins Creed 
+Batman arkham city:
 
 
-Batman
-
-
-Shadow of mordor
+Shadow of mordor:
 
 
 
-Darsiders 2
+Darsiders 2 : 
+
+
+
+
+
+Prof that I can do it: 
+Through this part of the documentation I will show you the projects that I've done over the summber, little projects that I've done through the years that I wanted to know about, mechanics that I've recently made and recourse that I would use to make that mechanic.
