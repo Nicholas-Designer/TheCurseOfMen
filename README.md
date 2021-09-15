@@ -17,10 +17,11 @@ Through the assassins creed franchise theirs was always that mechanic that made 
 Through these images show a break down of each movement while climbing, grabbing on a ledges and falling down to have that free and so that players have a different options of height that the player can go:
 
 ![Origins](https://user-images.githubusercontent.com/70651430/133426679-02045e04-c844-4e73-8d60-588b6c872dd0.png)
-![Origins2](https://user-images.githubusercontent.com/70651430/133426720-70107ed2-39be-47e0-b5ac-877accd7b008.png)
+![Orgins3](https://user-images.githubusercontent.com/70651430/133426625-6a9d26d8-13a3-44ca-b29c-cc46e5978de0.png)
+
 
 Extention: For something that I can do extra I could add object or obsticals on the wall and being able to grab onto anything if I manage to do this it would give me more a realistic and more of a free running experience.
-![Orgins3](https://user-images.githubusercontent.com/70651430/133426625-6a9d26d8-13a3-44ca-b29c-cc46e5978de0.png)
+![Origins2](https://user-images.githubusercontent.com/70651430/133426720-70107ed2-39be-47e0-b5ac-877accd7b008.png)
 
 
 
