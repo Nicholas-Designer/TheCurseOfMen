@@ -69,7 +69,10 @@ Video Example:
 
 
 
-Darsiders 2 : 
+Darsiders 2, main character look:
+
+
+
 
 
 
