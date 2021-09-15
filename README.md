@@ -55,13 +55,17 @@ Video Example:
 Shadow of mordor sword combat:
 sword combat is something that I've not tried to put into my games mainly didn't think about creating a sword fighting game mainly shooting games so this is something different and adding the fighting to a batman style game I think it would flow well so I won't be sword combat that is just for the player for the AI as well to attack the player so that it is a fair fight. The reason why I  choosen this mechanic and took this decision to create a sword combat style is that it is something different and to expand my knowledge and getting out of my comfort zone of creating different types of games.
 
+![Morder](https://user-images.githubusercontent.com/70651430/133448664-91266016-a1b6-4af6-91b1-6f1bf5e3cac1.png)
+![Morder2](https://user-images.githubusercontent.com/70651430/133448712-d92722a6-79eb-4ae1-a79e-7439b52f4572.png)
+
+Extension:
+if I have enough time over time the player has the optunity to add a finisher to ID (Insta Death) to the enemy showing off cool moves to the player giving that more visual entertainment.
+![Morder3](https://user-images.githubusercontent.com/70651430/133448778-b2726d32-a5d9-4cb1-a186-a9d3b8a11cd9.png)
 
 
 
 Video Example: 
 <iframe width="560" height="315" src="https://youtube.com/clip/UgyOUyEI9qq-ZoMQsNB4AaABCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 
 
