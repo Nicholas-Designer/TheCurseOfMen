@@ -33,9 +33,14 @@ Video example:
 Batman AI Fighting style:
 In the batman games theirs been a machanic that I always wanted to try that I didn't know how to tackle this machanic, The AI performance of how enemies an random start to attck the player making the gameplay unpredickable and making the player be more aware of their surounding and feels more realistic through a real fight.
 
+Through these images it shows what I think the AI enemeis behave while they are in a fighting state:
+
+![Batman](https://user-images.githubusercontent.com/70651430/133440682-3d2f8708-9905-496c-8b7d-3a212035485b.png)
+![Batman2](https://user-images.githubusercontent.com/70651430/133440713-7e3c72ac-1d17-4ff7-ab3d-d866fd115779.png)
 
 
 
+![Batman3](https://user-images.githubusercontent.com/70651430/133440739-f663336b-6508-4da6-8382-7c2bc66af7fd.png)
 
 
 
