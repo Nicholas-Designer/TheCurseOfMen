@@ -81,10 +81,6 @@ Through this game is mainly for what I would like the character to look like so 
 ![darksiders2](https://user-images.githubusercontent.com/70651430/133455936-acbcb0d0-b8d4-444d-b7d8-6d7f0e1070c0.jpg)
 ![Darksiders3](https://user-images.githubusercontent.com/70651430/133455954-cc25c323-f6eb-47f2-80fc-c3e5ea4a6ab5.jpg)
 
-
-
-
-
 Video example:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kj9R2QqzLkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
