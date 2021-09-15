@@ -27,11 +27,11 @@ Extention: For something that I can do extra I could add object or obsticals on 
 Video example:
 <iframe width="560" height="315" src="https://youtube.com/clip/UgzYAyFn_F-V9_h1cWh4AaABCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+
 Batman AI Fighting style:
 In the batman games theirs been a machanic that I always wanted to try that I didn't know how to tackle this machanic, The AI performance of how enemies an random start to attck the player making the gameplay unpredickable and making the player be more aware of their surounding and feels more realistic through a real fight.
-
-
-
 
 
 
