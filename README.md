@@ -11,8 +11,8 @@ Hello my name is nicholas street and this is my profolio based on the course Ind
 Inspiration focus:
 Through this part of the documentation this would show what mechanic or sections of the story that I took an interest and why this would be in my game with diagrams to show how I would tackle this personally using a complely different engine that they orginally used.
 
-Assassins Creed origins: 
-
+Assassins Creed origins:
+Through the assassins creed franchise theirs was always that mechanic that made it stand out from other games, free running. Climbing walls, jumping from rooftop to rooftop, going through anywhere everywhere that they can and any possible opstion is avaible to the player.The reason why I choose this mechanic is beacause I want players to have their own unqiue style of gameplay to give players the options to pick what areas they want to fight or to go to the sealthy apporach. 
 
 ![Origins](https://user-images.githubusercontent.com/70651430/133426679-02045e04-c844-4e73-8d60-588b6c872dd0.png)
 ![Origins2](https://user-images.githubusercontent.com/70651430/133426720-70107ed2-39be-47e0-b5ac-877accd7b008.png)
