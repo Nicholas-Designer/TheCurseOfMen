@@ -14,6 +14,8 @@ Through this part of the documentation this would show what mechanic or sections
 Assassins Creed origins:
 Through the assassins creed franchise theirs was always that mechanic that made it stand out from other games, free running. Climbing walls, jumping from rooftop to rooftop, going through anywhere everywhere that they can and any possible opstion is avaible to the player.The reason why I choose this mechanic is beacause I want players to have their own unqiue style of gameplay to give players the options to pick what areas they want to fight or to go to the sealthy apporach. 
 
+Through these images show a break down of each movement while climbing, grabbing on a ledge and falling down to have that free and so that players have a different opsions of height that the player can go:
+
 ![Origins](https://user-images.githubusercontent.com/70651430/133426679-02045e04-c844-4e73-8d60-588b6c872dd0.png)
 ![Origins2](https://user-images.githubusercontent.com/70651430/133426720-70107ed2-39be-47e0-b5ac-877accd7b008.png)
 ![Orgins3](https://user-images.githubusercontent.com/70651430/133426625-6a9d26d8-13a3-44ca-b29c-cc46e5978de0.png)
