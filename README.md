@@ -30,27 +30,38 @@ Video example:
 
 
 
+
+
 Batman AI Fighting style:
 In the batman games theirs been a machanic that I always wanted to try that I didn't know how to tackle this machanic, The AI performance of how enemies an random start to attck the player making the gameplay unpredickable and making the player be more aware of their surounding and feels more realistic through a real fight.
 
 Through these images it shows what I think the AI enemeis behave while they are in a fighting state:
+Key:
+I = idle state
+A = attack State
 
 ![Batman](https://user-images.githubusercontent.com/70651430/133440682-3d2f8708-9905-496c-8b7d-3a212035485b.png)
 ![Batman2](https://user-images.githubusercontent.com/70651430/133440713-7e3c72ac-1d17-4ff7-ab3d-d866fd115779.png)
 
 
-
+Extension : through getting the enemy attack I would like to get the notification of when the enemy or enemies are about the attack this it done through a simple Dynamic UI to the point of when the AI is attacking the player.
 ![Batman3](https://user-images.githubusercontent.com/70651430/133440739-f663336b-6508-4da6-8382-7c2bc66af7fd.png)
-
-
-
 
 
 Video Example: 
 <iframe width="560" height="315" src="https://youtube.com/clip/Ugxatyhfbr7N9p7DNoB4AaABCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Shadow of mordor:
+Shadow of mordor sword combat:
+sword combat is something that I've not tried to put into my games mainly didn't think about creating a sword fighting game mainly shooting games so this is something different and adding the fighting to a batman style game I think it would flow well so I won't be sword combat that is just for the player for the AI as well to attack the player so that it is a fair fight. The reason why I  choosen this mechanic and took this decision to create a sword combat style is that it is something different and to expand my knowledge and getting out of my comfort zone of creating different types of games.
+
+
+
+
+Video Example: 
+<iframe width="560" height="315" src="https://youtube.com/clip/UgyOUyEI9qq-ZoMQsNB4AaABCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
