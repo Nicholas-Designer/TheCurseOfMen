@@ -52,6 +52,10 @@ Video Example:
 <iframe width="560" height="315" src="https://youtube.com/clip/Ugxatyhfbr7N9p7DNoB4AaABCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+
+
+
 Shadow of mordor sword combat:
 sword combat is something that I've not tried to put into my games mainly didn't think about creating a sword fighting game mainly shooting games so this is something different and adding the fighting to a batman style game I think it would flow well so I won't be sword combat that is just for the player for the AI as well to attack the player so that it is a fair fight. The reason why I  choosen this mechanic and took this decision to create a sword combat style is that it is something different and to expand my knowledge and getting out of my comfort zone of creating different types of games.
 
