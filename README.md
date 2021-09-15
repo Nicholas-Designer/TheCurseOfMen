@@ -70,9 +70,20 @@ Video Example:
 
 
 Darsiders 2, main character look:
+Through this game is mainly for what I would like the character to look like so the story is what I'm thinking of a captain of knights fight he got double crossed and died then he was risen from the dead to take his revenge so he become a curse that is in his body to keep him alive. Through getting the character I was thinking of finding an asset or asking a character artist and dicuss the character that I want. 
+
+
+![darksiders](https://user-images.githubusercontent.com/70651430/133455913-0acd8bcf-5cc9-4eb8-adff-135b26f9adc0.jpg)
+![darksiders2](https://user-images.githubusercontent.com/70651430/133455936-acbcb0d0-b8d4-444d-b7d8-6d7f0e1070c0.jpg)
+![Darksiders3](https://user-images.githubusercontent.com/70651430/133455954-cc25c323-f6eb-47f2-80fc-c3e5ea4a6ab5.jpg)
 
 
 
+
+
+Video example:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kj9R2QqzLkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
