@@ -108,8 +108,35 @@ Through these videos it gave me an understand of what I need to do to create a c
 
 
 AI Behavour
-Through learning this during when I was a Junior the team that I was with decided to take a different path so in this project it would be a perfect fit to add this into the project because I would be making different paths for the AI and patterns that they have to follow and to detect the player 
+Through learning this during when I was a Junior the team that I was with decided to take a different path so in this project it would be a perfect fit to add this into the project because I would be making different paths for the AI and patterns that they have to follow and to detect the player.
 
+Through this image shows the route that I set for the AI and in the video it goes to that path in order which is good for me to use for different routes and patterns in the game. 
 ![AIRoute](https://user-images.githubusercontent.com/70651430/134206668-60a575af-4d75-4234-aad5-cb89167f2af6.png)
+https://youtu.be/EP2cxO415GU
+Their is also some behavour that I've worked on last year during the simester 2 of advance 3D game engine of finding ways to detect and attack the player, follow them and many more.
+
+https://youtu.be/hOjW_W5dkL4
+
+Fighting:
+AI Fighting is something I haven't looked at much I've main done enemy dectection and they shot each other but doing something like fighting in the batman games I would say it would be challenging to do but I've found a very useful video of mix and jam that demonstates the AI that are in the batman into unity I'm going to use unreal for this project so I would convert by learning the Unity logic and putting it into practice in unreal.
+This is the link of the video: 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFOpKcpKGKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Sword combat:
+As I've said before it is a new area that I've not tried out yet so it would be something to look forward to do through the coming weeks I should have a working prototype of a simple sword fighting style before the project is in motion just to see how complicated it could be and the possiblities that I could take it.
+
+
+
+
+
+
+
+
+
+
 
 
