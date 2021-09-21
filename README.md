@@ -87,7 +87,25 @@ Video example:
 
 
 
-
-
 Prof that I can do it: 
 Through this part of the documentation I will show you the projects that I've done over the summber, little projects that I've done through the years that I wanted to know about, mechanics that I've recently made and recourse that I would use to make that mechanic.
+
+Parkour mechanic
+In these videos it shows you the climbing mechanic that I've looked into as an addinsional research of something that I wanted to learn but this is more of a God Of War type of style of vaulting over obsticals jumping across and tunring to access different areas of the map.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1UrX4Mc3TKk?start=106" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Through these videos are demonstations of what I learnt through making this mechanic:
+
+https://youtu.be/Ta4jDQJE2eg
+
+https://youtu.be/LvH58qAjAP0
+
+
+Through these videos it gave me an understand of what I need to do to create a character that is vaulting and climbing over objects that you want players to climb. however this isn't the mechanic that I'm aiming for its more of a base line I wanna create wall climbing through a flat surface wall like what they do in origins but less advance I would wanna try the basics but advance my way through it.
+
+
+
+
+
