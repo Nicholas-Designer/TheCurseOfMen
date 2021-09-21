@@ -107,5 +107,9 @@ Through these videos it gave me an understand of what I need to do to create a c
 
 
 
+AI Behavour
+Through learning this during when I was a Junior the team that I was with decided to take a different path so in this project it would be a perfect fit to add this into the project because I would be making different paths for the AI and patterns that they have to follow and to detect the player 
+
+![AIRoute](https://user-images.githubusercontent.com/70651430/134206668-60a575af-4d75-4234-aad5-cb89167f2af6.png)
 
 
