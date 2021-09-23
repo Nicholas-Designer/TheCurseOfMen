@@ -106,6 +106,9 @@ https://youtu.be/LvH58qAjAP0
 Through these videos it gave me an understand of what I need to do to create a character that is vaulting and climbing over objects that you want players to climb. however this isn't the mechanic that I'm aiming for its more of a base line I wanna create wall climbing through a flat surface wall like what they do in origins but less advance I would wanna try the basics but advance my way through it.
 
 
+Demonstion video:
+
+
 
 AI Behavour
 Through learning this during when I was a Junior the team that I was with decided to take a different path so in this project it would be a perfect fit to add this into the project because I would be making different paths for the AI and patterns that they have to follow and to detect the player.
@@ -126,8 +129,20 @@ This is the link of the video:
 
 
 
+
+
+
 Sword combat:
 As I've said before it is a new area that I've not tried out yet so it would be something to look forward to do through the coming weeks I should have a working prototype of a simple sword fighting style before the project is in motion just to see how complicated it could be and the possiblities that I could take it.
+
+This is an demostion of the me attempting sword combat I came to realise that their was allot more process that I throught it was more attach the sword to the character and making the animation work well but I'm gla I've started to do this earlier on so that I know that I can make a sword combat system
+
+
+https://youtu.be/j8tTGXdMatw
+
+
+
+
 
 
 
